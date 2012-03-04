@@ -1,0 +1,2 @@
+$("header").hide();
+$("aside").hide();
