@@ -1,0 +1,69 @@
+@media print{body{font-family:georgia, serif;font:12pt/18pt;} #wrapper{background:white;font-size:11pt;padding:0px;border:0px solid #fff;} .nop{display:none;} #wrapper,#content{width:auto;margin:0 5%;padding:0;border:0;float:none !important;color:black;background:transparent none;} div#content{margin-left:10%;padding-top:1em;border-top:1px solid #930;} div#mast{margin-bottom:-8px;} div#mast img{vertical-align:bottom;} a:link,a:visited{color:#520;background:transparent;font-weight:bold;text-decoration:underline;} #content a:link:after,#content a:visited:after{content:" (" attr(href) ") ";font-size:90%;} #content a[href^="/"]:after{content:" (http://btbytes.com" attr(href) ") ";}}audio,canvas,video{display:inline-block;*display:inline;*zoom:1;}
+audio:not([controls]){display:none;}
+[hidden]{display:none;}
+html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
+html,button,input,select,textarea{font-family:sans-serif;}
+a:focus{outline:thin dotted;}
+a:hover,a:active{outline:0;}
+h1{font-size:2em;margin:0.67em 0;}
+h2{font-size:1.5em;margin:0.83em 0;}
+h3{font-size:1.17em;margin:1em 0;}
+h4{font-size:1em;margin:1.33em 0;}
+h5{font-size:0.83em;margin:1.67em 0;}
+h6{font-size:0.75em;margin:2.33em 0;}
+abbr[title]{border-bottom:1px dotted;}
+b,strong{font-weight:bold;}
+blockquote{margin:1em 40px;}
+dfn{font-style:italic;}
+mark{background:#ff0;color:#000;}
+p,pre{margin:1em 0;}
+pre,code,kbd,samp{font-family:monospace, serif;_font-family:'courier new',monospace;font-size:1em;}
+pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word;}
+q{quotes:none;}
+q:before,q:after{content:'';content:none;}
+small{font-size:75%;}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}
+sup{top:-0.5em;}
+sub{bottom:-0.25em;}
+dl,menu,ol,ul{margin:1em 0;}
+dd{margin:0 0 0 40px;}
+menu,ol,ul{padding:0 0 0 40px;}
+nav ul,nav ol{list-style:none;list-style-image:none;}
+img{border:0;-ms-interpolation-mode:bicubic;}
+svg:not(:root){overflow:hidden;}
+figure{margin:0;}
+form{margin:0;}
+fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em;}
+legend{border:0;padding:0;white-space:normal;*margin-left:-7px;}
+button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle;}
+button,input{line-height:normal;}
+button,input[type="button"],input[type="reset"],input[type="submit"]{cursor:pointer;-webkit-appearance:button;*overflow:visible;}
+button[disabled],input[disabled]{cursor:default;}
+input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0;*height:13px;*width:13px;}
+input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box;}
+input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none;}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
+textarea{overflow:auto;vertical-align:top;}
+table{border-collapse:collapse;border-spacing:0;}
+body{background-color: #fff; padding: 2em;font-size:11pt;line-height:1.5em;}
+a{color:#44f;text-decoration:none;}
+h1,h2,h3{color:#000000;}
+p,blockquote{max-width:52em;}
+dd,hr,li{max-width:50em;}
+hr{margin-left:0em;border-bottom:solid 1px #aaaaaa;}
+#wrapper{background:#ffffff;border:solid 1px #dde;padding-left:2em;height:100%;}
+.date,.author{margin:0em;}
+.date{font-size:0.9em;color:#aaaaaa;font-style:italic;}
+header{margin-bottom:0.5em;margin-left:2em;}header p#crumb0{border-bottom:solid 1px #eeeeee;padding-bottom:1em;}
+header p#sitenav{text-align:left;padding-bottom:0px;margin:0px 0px 0.5 2em;}header p#sitenav a{font-size:0.9em;border:0px;padding:0em 1.5em 0em 0em;color:#971d05;}
+blockquote{font-family:times, georgia, serif;border-left:1px solid #ddf;margin:1.5em .5em;padding:.5em 1em;font-style:italic;font-size:109%;}
+blockquote p{display:inline;font-size:109%;}
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{text-decoration:none;color:#000000;}
+#nav h2{margin-bottom:0em;}
+#nav table{margin-top:0em;}
+p.summary{font-size:1.1em;line-height:1.5em;}
+footer{margin:1em 0 0 2em;}footer a{text-decoration:none;color:#aaaaaa;}
+table{border-collapse:collapse;text-align:left;margin:2em 0px;width:50em;}
+th{font-size:14px;font-weight:bold;color:#000000;border-bottom:2px solid #6678b1;padding:10px 8px;}
+td{color:#333;padding:9px 8px 0;}
+tr:hover td{color:#009;}

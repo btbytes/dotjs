@@ -1,0 +1,11 @@
+#header
+, #footer
+, #side
+, #news
+{
+display: none;
+}
+
+body, #container {
+    background-color: #000;
+}

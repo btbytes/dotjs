@@ -1,0 +1,12 @@
+header
+, aside
+, footer 
+{
+    display: none;
+
+}
+article {
+    font: small sans-serif;
+    font-height: 1.5em;
+    background-image: none;
+}

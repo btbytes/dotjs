@@ -1,0 +1,25 @@
+#masthead
+, #insideNYTimes
+, .articleBottomExtra
+, .mainTabsContainer
+, .navigation
+, #editionToggle
+, #memberTools
+, #cColumn
+, .box
+, #footer
+, #navWorld
+, .subNavigation
+, #navUs
+{
+    display: none;
+}
+
+#page {
+    border: 0px #fff solid;
+}
+
+#article {
+
+    width: 52em;
+}

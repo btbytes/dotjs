@@ -1,0 +1,12 @@
+.post {
+    max-width: 52em;
+    padding: 3em;
+    background-image: none;
+    font: medium;
+    text-align: left;
+    
+}
+
+#comment_form, #comments {
+    display: none;
+}

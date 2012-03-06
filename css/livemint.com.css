@@ -1,0 +1,8 @@
+.header
+, #nav
+, .area2
+, #disqus_thread
+, .footer
+{
+    display: none;
+}
