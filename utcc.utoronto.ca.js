@@ -2,7 +2,7 @@
 
 var pathname = window.location.pathname;
 if (pathname.indexOf("cks") > 0) {
-    loadjscssfile("http://test.btbytes.com/btbytes.css", "css") 
+    loadjscssfile("http://test.btbytes.com/aal.css", "css") 
 }
 
 
